@@ -16,6 +16,7 @@ mpu.get_accel_data() # return acceleration value tuple (x,y,z)
 
 ## Benchmark
 Initial version of this library on a par with Adafruit MPU6050 CircuitPython Library shown by this sequential read of acceleration value. Not bad.
+**Test conducted using Raspberry Pi 3B+ - python 3.7.3 - I2C**.
 ![Starting Dark Mode](extras/bench-graph.png?raw=True)
 
 ## To do
